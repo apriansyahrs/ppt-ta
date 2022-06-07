@@ -9,7 +9,7 @@ const TempatWaktuPenelitian = () => {
             <div className="space-y-16">
               <div className="space-y-8">
                 <h1 className="text-2xl font-bold">Tempat dan Waktu Penelitian</h1>
-                <table class="table-auto">
+                <table className="table-auto">
                   <tbody>
                     <tr>
                       <td>Nama Instansi</td>
