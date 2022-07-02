@@ -9,8 +9,8 @@ const HomePage = () => {
             <div className="space-y-2 text-center">
               <h1 className="text-2xl font-bold">SEMINAR PROPOSAL</h1>
               <p className="text-2xl font-semibold text-slate-700">
-                PERANCANGAN <span className="italic ">DESIGN SYSTEM</span> PADA PERANGKAT LUNAK DI
-                CV. AKSES DIGITAL
+                <span className="italic ">DESIGN SYSTEM</span>
+                  PADA PERANGKAT LUNAK DI CV. AKSES DIGITAL
               </p>
             </div>
 
